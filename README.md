@@ -49,3 +49,19 @@ java Solution
 * **Data Structures:** Arrays, Hash Tables, Linked Lists, Binary Trees, Graphs, Heaps, and Stacks.
 * **Algorithms:** Two Pointers, Sliding Window, Binary Search, Dynamic Programming, Backtracking, and Greedy choices.
 * **Java Collections Framework:** Built entirely using native Java classes like `HashMap`, `ArrayList`, `HashSet`, and `PriorityQueue` without external dependencies.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+## String
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+<!---LeetCode Topics End-->
