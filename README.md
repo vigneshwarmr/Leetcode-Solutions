@@ -56,18 +56,22 @@ java Solution
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
 ## String
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
 ## Array
 |  |
 | ------- |
+| [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
 <!---LeetCode Topics End-->
