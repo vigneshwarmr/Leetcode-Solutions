@@ -104,11 +104,13 @@ java Solution
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -119,6 +121,7 @@ java Solution
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Bit Manipulation
