@@ -13,18 +13,25 @@ class Solution {
             adj.get(v).add(u);
         }
 
-        boolean[]vis= new boolean[n];
-        dfs(source,adj,vis);
-        return vis[destination];
-    }
+        Queue<Integer> q= new LinkedList<>();
+        q.offer(source);
+        boolean[]vis = new boolean[n];
 
-    private void dfs(int node,List<List<Integer>> adj,boolean[]vis){
-        vis[node]=true;
+        while(!q.isEmpty()){
+            int size = q.size();
 
-        for(int x:adj.get(node)){
-            if(!vis[x]){
-                dfs(x,adj,vis);
+            for(int i=0;i<size;i++){
+                Integer node= q.poll();
+                if(node==destination)return true;
+
+                for(int neighbor:adj.get(node)){
+                    if(!vis[neighbor]){
+                        vis[neighbor]=true;
+                        q.offer(neighbor);
+                    }
+                }
             }
         }
+        return false;
     }
 }
