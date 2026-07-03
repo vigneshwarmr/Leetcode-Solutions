@@ -70,14 +70,17 @@ java Solution
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0909-snakes-and-ladders](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Array
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0909-snakes-and-ladders](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Matrix
 |  |
 | ------- |
 | [0909-snakes-and-ladders](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 <!---LeetCode Topics End-->
