@@ -68,6 +68,7 @@ java Solution
 | ------- |
 | [0207-course-schedule](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
@@ -91,17 +92,20 @@ java Solution
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Math
