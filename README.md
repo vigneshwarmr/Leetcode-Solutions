@@ -69,6 +69,7 @@ java Solution
 | [0207-course-schedule](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
@@ -78,6 +79,7 @@ java Solution
 ## Array
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
@@ -86,6 +88,7 @@ java Solution
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Depth-First Search
@@ -93,12 +96,14 @@ java Solution
 | ------- |
 | [0207-course-schedule](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
