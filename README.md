@@ -56,6 +56,7 @@ java Solution
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0740-delete-and-earn](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
 ## String
@@ -82,6 +83,7 @@ java Solution
 | [0198-house-robber](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0740-delete-and-earn](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
@@ -130,6 +132,7 @@ java Solution
 | [0213-house-robber-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Recursion
