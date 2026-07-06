@@ -18,9 +18,9 @@ class Solution {
         int m = obstacleGrid[0].length;
 
 
-        if(i<0 || j<0 || i>=n || j>=m )return 0;
+        if(i<0 || j<0 || i>=n || j>=m || obstacleGrid[i][j]==1)return 0;
         if(obstacleGrid[n-1][m-1]==1)return 0;
-        if(obstacleGrid[i][j]==1)return 0;
+    
 
         if(i==n-1 && j== m-1 )return 1;
 
