@@ -85,6 +85,7 @@ java Solution
 | [0055-jump-game](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
@@ -142,6 +143,7 @@ java Solution
 | [0063-unique-paths-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
