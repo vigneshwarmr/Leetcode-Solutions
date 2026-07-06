@@ -81,6 +81,7 @@ java Solution
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
@@ -129,6 +130,7 @@ java Solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -184,4 +186,8 @@ java Solution
 |  |
 | ------- |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
