@@ -94,6 +94,7 @@ java Solution
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0909-snakes-and-ladders](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [0931-minimum-falling-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Matrix
@@ -103,6 +104,7 @@ java Solution
 | [0064-minimum-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [0931-minimum-falling-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Depth-First Search
 |  |
@@ -150,6 +152,7 @@ java Solution
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Recursion
