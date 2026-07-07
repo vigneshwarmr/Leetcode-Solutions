@@ -11,17 +11,18 @@ class Solution {
         }
 
         return solve(grid,n-1,m);
-
     }
+
     private int solve(int[][]grid,int curr,int last){
+
         int n = grid.length;
         int m = grid[0].length;
 
         if(curr==0){
-            int min = Integer.MAX_VALUE;
-            for(int currbest=0;currbest<m;currbest++){
-                if(currbest!=last){
-                    min= Math.min(min,grid[0][currbest]);
+            int min= Integer.MAX_VALUE;
+            for(int i=0;i<m;i++){
+                if(i!=last){
+                min= Math.min(min,grid[0][i]);
                 }
             }
             return min;
@@ -31,14 +32,15 @@ class Solution {
             return dp[curr][last];
         }
 
-        int min=Integer.MAX_VALUE;
+        int min= Integer.MAX_VALUE;
 
-        for(int currbest=0;currbest<m;currbest++){
-            if(currbest!=last){
-                int point = grid[curr][currbest]+ solve(grid,curr-1,currbest);
-                min= Math.min(min,point);
+        for(int task=0;task<m;task++){
+            if(task!=last){
+                int point = grid[curr][task]+ solve(grid,curr-1,task);
+                min = Math.min(point,min);
             }
         }
         return dp[curr][last]=min;
+
     }
 }
