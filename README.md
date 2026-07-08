@@ -96,6 +96,7 @@ java Solution
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0909-snakes-and-ladders](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1575-count-all-possible-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1575-count-all-possible-routes) |
@@ -161,6 +162,7 @@ java Solution
 | [0746-min-cost-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1575-count-all-possible-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1575-count-all-possible-routes) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
