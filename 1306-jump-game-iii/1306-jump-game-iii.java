@@ -3,18 +3,28 @@ class Solution {
         int n = arr.length;
         boolean[]vis= new boolean[n];
         
-        return dfs(arr,start,vis);
+        Queue<Integer> q = new LinkedList<>();
+        q.offer(start);
+        vis[start]=true;
 
-    }
-    private boolean dfs(int[]arr,int node,boolean[]vis){
-        int n = arr.length;
-        if(node<0 || node>=n)return false;
+        while(!q.isEmpty()){
+            int i = q.poll();
 
-        if(vis[node])return false;
+            if(arr[i]==0)return true;
 
-        if(arr[node]==0)return true;
-        
-        vis[node]=true;
-        return (dfs(arr,node+arr[node],vis)||dfs(arr,node-arr[node],vis));
+            int forward= i+arr[i];
+            int backward = i-arr[i];
+
+            if(forward<n  && !vis[forward]){
+                vis[forward]=true;
+                q.offer(forward);
+            }
+
+            if(backward>=0  && !vis[backward]){
+                vis[backward]=true;
+                q.offer(backward);
+            }
+        }
+        return false;
   }
 }
