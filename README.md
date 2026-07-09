@@ -163,6 +163,7 @@ java Solution
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
