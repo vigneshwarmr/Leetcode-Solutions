@@ -86,6 +86,7 @@ java Solution
 | [0055-jump-game](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -195,6 +196,7 @@ java Solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0078-subsets) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
@@ -244,4 +246,8 @@ java Solution
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
