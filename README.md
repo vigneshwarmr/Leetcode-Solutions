@@ -91,6 +91,7 @@ java Solution
 | [0198-house-robber](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -167,6 +168,7 @@ java Solution
 | [0213-house-robber-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -250,4 +252,5 @@ java Solution
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
