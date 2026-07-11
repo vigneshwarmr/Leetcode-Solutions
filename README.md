@@ -82,6 +82,7 @@ java Solution
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -253,6 +254,7 @@ java Solution
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
