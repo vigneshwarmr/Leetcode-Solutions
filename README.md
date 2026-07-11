@@ -101,6 +101,7 @@ java Solution
 | [0909-snakes-and-ladders](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -176,6 +177,7 @@ java Solution
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
