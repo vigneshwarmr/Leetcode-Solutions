@@ -159,6 +159,7 @@ java Solution
 | ------- |
 | [0062-unique-paths](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0343-integer-break](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Dynamic Programming
@@ -175,6 +176,7 @@ java Solution
 | [0213-house-robber-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0494-target-sum) |
