@@ -1,18 +1,14 @@
 class Solution {
     public int integerBreak(int n) {
         
-        if(n==2)return 1;
-        if(n==3)return 2;
+        int[]dp = new int[n+1];
+        dp[1]=1;
 
-        int three =n/3;
-        int remainder=n%3;
-
-        if(remainder==1){
-            three-=1;
-            remainder=4;
-        }else if(remainder==0){
-            remainder=1;
+        for(int j=2;j<=n;j++){
+            for(int i=1;i<j;i++){
+                dp[j]=Math.max(dp[j],Math.max(i*(j-i),i*dp[j-i]));
+            }
         }
-        return(int)(Math.pow(3,three)*remainder);  
+        return dp[n];
 }
 }
