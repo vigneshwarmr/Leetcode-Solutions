@@ -14,22 +14,16 @@ class Solution {
             adj.get(pre).add(course);
         }
 
-        List<Integer> res = new ArrayList<>();
-
         for(int i=0;i<numCourses;i++){
             if(vis[i]==0){
                 if(dfs(i,adj,vis,st))return new int[0];
             }
         }  
-
+        int i=0;
         int[]arr= new int[numCourses];
 
         while(!st.isEmpty()){
-            res.add(st.pop());
-        }
-
-        for(int i=0;i<numCourses;i++){
-            arr[i]=res.get(i);
+            arr[i++]=st.pop();
         }
 
         return arr;
