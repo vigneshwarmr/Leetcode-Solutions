@@ -2,39 +2,39 @@ class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         
         List<List<Integer>> adj = new ArrayList<>();
-        int []indegree = new int[numCourses];
 
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         }
 
-        for(int []edge: prerequisites ){
+        for(int[]edge :prerequisites ){
             int u = edge[0];
             int v = edge[1];
             adj.get(u).add(v);
-            indegree[v]++;
         }
 
-        int count =0;
-        Queue<Integer> q = new LinkedList<>();
-
+        
+        int[]vis = new int[numCourses];
+    
         for(int i=0;i<numCourses;i++){
-            if(indegree[i]==0){
-                q.offer(i);
+            if(vis[i]!=1){
+                if(dfs(i,adj,vis))return false;
             }
         }
 
-        while(!q.isEmpty()){
-            int node = q.poll();
-            count++;
+        return true;
+    }
+    private boolean dfs(int node,List<List<Integer>> adj,int[]vis){
 
-            for(int nbr:adj.get(node)){
-                indegree[nbr]--;
-                if(indegree[nbr]==0){
-                    q.offer(nbr);
-                }
-            }
+        vis[node]=1;
+
+        for(Integer x:adj.get(node)){
+            if(vis[x]==0){
+                if(dfs(x,adj,vis))return true;
+            }else if(vis[x]==1)return true;
         }
-        return count==numCourses;
+
+        vis[node]=2;
+        return false;
     }
 }
