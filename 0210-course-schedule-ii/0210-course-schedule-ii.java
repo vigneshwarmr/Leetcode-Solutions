@@ -1,44 +1,46 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         List<List<Integer>> adj = new ArrayList<>();
-        int[]vis = new int[numCourses];
-        Stack<Integer> st = new Stack<>();
 
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         }
 
-        for(int []edge:prerequisites){
-            int course = edge[0];
-            int pre = edge[1];
-            adj.get(pre).add(course);
+        int[]indegree = new int[numCourses];
+
+        for(int []edge :prerequisites){
+            int u = edge[0];
+            int v = edge[1];
+            adj.get(v).add(u);
+            indegree[u]++;
         }
+
+        Queue<Integer> q = new LinkedList<>();
 
         for(int i=0;i<numCourses;i++){
-            if(vis[i]==0){
-                if(dfs(i,adj,vis,st))return new int[0];
+            if(indegree[i]==0){
+                q.offer(i);
             }
-        }  
-        int i=0;
+        }
+
         int[]arr= new int[numCourses];
+        int index=0;
+        while(!q.isEmpty()){
+            int node = q.poll();
+            arr[index++]=node;
+            for(int nbr:adj.get(node)){
+                indegree[nbr]--;
+                if(indegree[nbr]==0){
+                    q.offer(nbr);
+                }
+            }
 
-        while(!st.isEmpty()){
-            arr[i++]=st.pop();
         }
 
+        if(index!=numCourses){
+            return new int[0];
+        }
         return arr;
-    }
-    private boolean dfs(int node,  List<List<Integer>> adj ,int[]vis,Stack<Integer> st){
-        vis[node]=1;
-
-        for(Integer x:adj.get(node)){
-            if(vis[x]==0){
-                if(dfs(x,adj,vis,st))return true;
-            }else if(vis[x]==1)return true;
-        }
-
-        vis[node]=2;
-        st.push(node);
-        return false;
+        
     }
 }
