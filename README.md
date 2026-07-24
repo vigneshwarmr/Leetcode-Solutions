@@ -82,6 +82,7 @@ java Solution
 | [0909-snakes-and-ladders](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [1462-course-schedule-iv](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Array
@@ -147,6 +148,7 @@ java Solution
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [1462-course-schedule-iv](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -163,6 +165,7 @@ java Solution
 | [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
@@ -236,6 +239,7 @@ java Solution
 | [0207-course-schedule](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 ## Tree
 |  |
 | ------- |
