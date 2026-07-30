@@ -1,46 +1,48 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
+        
         List<List<Integer>> adj = new ArrayList<>();
 
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         }
+        int[]indegree = new int[numCourses];
 
-        for(int []edge :prerequisites){
+        for(int[]edge:prerequisites){
             int u = edge[0];
-            int v = edge[1];
+            int v= edge[1];
             adj.get(v).add(u);
+            indegree[u]++;
         }
 
-        Stack<Integer> st = new Stack<>();
-        int []vis = new int[numCourses];
+        Queue<Integer> q = new LinkedList<>();
 
         for(int i=0;i<numCourses;i++){
-            if(vis[i]==0){
-                if(dfs(i,adj,vis,st)) return new int[0];
+            if(indegree[i]==0){
+            q.offer(i);
             }
         }
-        int[]arr= new int[numCourses];
-        int idxx=0;
 
-        while(!st.isEmpty()){
-            int node =st.pop();
-            arr[idxx++]=node;
-        }
-        return arr;  
-    }
+        List<Integer> res = new ArrayList<>();
 
-    private boolean dfs(int node,List<List<Integer>> adj,int[]vis ,Stack<Integer> st){
-        vis[node]=1;
+        while(!q.isEmpty()){
+            int node = q.poll();
+            res.add(node);
 
-        for(Integer x:adj.get(node)){
-            if(vis[x]==0){
-                if(dfs(x,adj,vis,st))return true;
-            }else if(vis[x]==1)return true;
+            for(int nbr:adj.get(node)){
+                indegree[nbr]--;
+                if( indegree[nbr]==0){
+                    q.offer(nbr);
+                }
+            }
         }
 
-        vis[node]=2;
-        st.push(node);
-        return false;
+        int[]ans = new int[numCourses];
+        if(res.size()!=numCourses)return new int[0];
+
+        for(int i=0;i<res.size();i++){
+            ans[i]=res.get(i);
+        }
+        return ans;
     }
 }
