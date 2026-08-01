@@ -6,43 +6,41 @@ class Solution {
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         }
-        int[]indegree = new int[numCourses];
 
         for(int[]edge:prerequisites){
             int u = edge[0];
             int v= edge[1];
             adj.get(v).add(u);
-            indegree[u]++;
         }
 
-        Queue<Integer> q = new LinkedList<>();
+        Stack<Integer> st = new Stack<>();
+        int[]vis = new int[numCourses];
 
         for(int i=0;i<numCourses;i++){
-            if(indegree[i]==0){
-            q.offer(i);
-            }
+          if(vis[i]==0){
+            if(dfs(i,adj,vis,st))return new int[0];
+          }
         }
 
-        List<Integer> res = new ArrayList<>();
-
-        while(!q.isEmpty()){
-            int node = q.poll();
-            res.add(node);
-
-            for(int nbr:adj.get(node)){
-                indegree[nbr]--;
-                if( indegree[nbr]==0){
-                    q.offer(nbr);
-                }
-            }
+        int[]arr = new int[numCourses];
+        int idx =0;
+        while(!st.isEmpty()){
+            arr[idx++]=st.pop();
         }
+        return arr;
 
-        int[]ans = new int[numCourses];
-        if(res.size()!=numCourses)return new int[0];
+    }
+    private boolean dfs(int node ,List<List<Integer>> adj,int[]vis, Stack<Integer> st){
 
-        for(int i=0;i<res.size();i++){
-            ans[i]=res.get(i);
+        vis[node]=1;
+
+        for(Integer x:adj.get(node)){
+            if(vis[x]==0){
+                if(dfs(x,adj,vis,st))return true;
+            }else if(vis[x]==1)return true;
         }
-        return ans;
+        vis[node]=2;
+        st.push(node);
+        return false;
     }
 }
