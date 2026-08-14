@@ -1,33 +1,40 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        
         List<List<Integer>> adj = new ArrayList<>();
 
         for(int i=0;i<graph.length;i++){
             adj.add(new ArrayList<>());
         }
-
-        int[]vis = new int[graph.length];
-
-        List<Integer> res = new ArrayList<>(); 
+        int[]indegree = new int[graph.length];
 
         for(int i=0;i<graph.length;i++){
-            if(!dfs(i,graph,vis)){
-                res.add(i);
+            for(Integer x:graph[i]){
+                adj.get(x).add(i);
+                indegree[i]++;
             }
         }
-        return res;
-    }
 
-     private boolean dfs(int node,int[][]graph ,int[]vis){
-        vis[node]=1;
+        Queue<Integer> q= new LinkedList<>();
+        List<Integer> res = new ArrayList<>();
 
-        for(int x:graph[node]){
-            if(vis[x]==0){
-                if(dfs(x,graph,vis))return true;
-            }else if(vis[x]==1)return true;
+        for(int i=0;i<graph.length;i++){
+            if(indegree[i]==0){
+                q.offer(i);
+            }
         }
-        vis[node]=2;
-        return false;
+
+        while(!q.isEmpty()){
+            int node = q.poll();
+            res.add(node);
+
+            for(int nbr :adj.get(node)){
+                indegree[nbr]--;
+                if(indegree[nbr]==0){
+                    q.offer(nbr);
+                }
+            }
+        }
+        Collections.sort(res);
+        return res;
     }
 }
