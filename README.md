@@ -302,4 +302,12 @@ java Solution
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
