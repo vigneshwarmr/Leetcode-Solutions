@@ -12,7 +12,7 @@ class Solution {
         List<Integer> res = new ArrayList<>(); 
 
         for(int i=0;i<graph.length;i++){
-            if(dfs(i,graph,vis)){
+            if(!dfs(i,graph,vis)){
                 res.add(i);
             }
         }
@@ -20,14 +20,14 @@ class Solution {
     }
 
      private boolean dfs(int node,int[][]graph ,int[]vis){
-        if(vis[node]==2)return true;
-        if(vis[node]==1)return false;
         vis[node]=1;
 
         for(int x:graph[node]){
-            if(!dfs(x,graph,vis))return false;
+            if(vis[x]==0){
+                if(dfs(x,graph,vis))return true;
+            }else if(vis[x]==1)return true;
         }
         vis[node]=2;
-        return true;
+        return false;
     }
 }
