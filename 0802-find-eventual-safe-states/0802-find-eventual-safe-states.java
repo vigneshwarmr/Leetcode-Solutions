@@ -7,36 +7,27 @@ class Solution {
             adj.add(new ArrayList<>());
         }
 
-        int[]indegree = new int[graph.length];
-        Queue<Integer> q = new LinkedList<>();
+        int[]vis = new int[graph.length];
+
+        List<Integer> res = new ArrayList<>(); 
 
         for(int i=0;i<graph.length;i++){
-            for(Integer x:graph[i]){
-                adj.get(x).add(i);
-                indegree[i]++;
+            if(dfs(i,graph,vis)){
+                res.add(i);
             }
         }
-
-        for(int i=0;i<graph.length;i++){
-            if(indegree[i]==0){
-                q.offer(i);
-            }
-        }
-        List<Integer> res = new ArrayList<>();
-
-        while(!q.isEmpty()){
-            int node = q.poll();
-            res.add(node);
-
-            for(int nbr:adj.get(node)){
-                indegree[nbr]--;
-
-                if(indegree[nbr]==0){
-                    q.offer(nbr);
-                }
-            }
-        }
-        Collections.sort(res);
         return res;
+    }
+
+     private boolean dfs(int node,int[][]graph ,int[]vis){
+        if(vis[node]==2)return true;
+        if(vis[node]==1)return false;
+        vis[node]=1;
+
+        for(int x:graph[node]){
+            if(!dfs(x,graph,vis))return false;
+        }
+        vis[node]=2;
+        return true;
     }
 }
