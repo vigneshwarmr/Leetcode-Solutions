@@ -2,11 +2,13 @@ class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
         
         List<List<Integer>> adj = new ArrayList<>();
-        int[]indegree = new int[graph.length];
 
         for(int i=0;i<graph.length;i++){
             adj.add(new ArrayList<>());
         }
+
+        int[]indegree = new int[graph.length];
+        Queue<Integer>q = new LinkedList<>();
 
         for(int i=0;i<graph.length;i++){
             for(Integer x:graph[i]){
@@ -15,14 +17,13 @@ class Solution {
             }
         }
 
-        Queue<Integer> q = new LinkedList<>();
-        List<Integer> res = new ArrayList<>();
-
         for(int i=0;i<graph.length;i++){
             if(indegree[i]==0){
                 q.offer(i);
             }
         }
+
+        List<Integer> res = new ArrayList<>();
 
         while(!q.isEmpty()){
             int node = q.poll();
@@ -30,14 +31,14 @@ class Solution {
 
             for(int nbr:adj.get(node)){
                 indegree[nbr]--;
+
                 if(indegree[nbr]==0){
                     q.offer(nbr);
                 }
             }
         }
+
         Collections.sort(res);
         return res;
-    
     }
-    
 }
