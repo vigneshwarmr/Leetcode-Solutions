@@ -178,6 +178,7 @@ java Solution
 | [0062-unique-paths](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0343-integer-break) |
+| [0371-sum-of-two-integers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Dynamic Programming
@@ -231,6 +232,7 @@ java Solution
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0371-sum-of-two-integers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
