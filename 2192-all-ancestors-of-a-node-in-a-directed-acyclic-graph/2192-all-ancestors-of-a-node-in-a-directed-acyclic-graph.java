@@ -3,21 +3,26 @@ class Solution {
         
         List<List<Integer>> adj = new ArrayList<>();
 
-
-        for(int i=0;i<n;i++){
+        for(int i =0;i<n;i++){
             adj.add(new ArrayList<>());
         }
 
         int[]indegree = new int[n];
 
-        for(int[]p : edges){
-            int u =p[0];
-            int v = p[1];
+        for(int[]edge :edges){
+            int u = edge[0];
+            int v = edge[1];
             adj.get(u).add(v);
             indegree[v]++;
         }
 
-        Queue<Integer> q = new LinkedList<>();
+        List<Set<Integer>> ancestors = new ArrayList<>();
+
+        for(int i =0;i<n;i++){
+            ancestors.add(new HashSet<>());
+        }
+
+        Queue<Integer> q= new LinkedList<>();
 
         for(int i=0;i<n;i++){
             if(indegree[i]==0){
@@ -25,11 +30,6 @@ class Solution {
             }
         }
 
-        List<Set<Integer>> ancestors = new ArrayList<>();
-
-        for(int i=0;i<n;i++){
-            ancestors.add(new HashSet<>());
-        }
 
         while(!q.isEmpty()){
             int node = q.poll();
@@ -37,23 +37,22 @@ class Solution {
             for(int nbr:adj.get(node)){
                 ancestors.get(nbr).add(node);
                 ancestors.get(nbr).addAll(ancestors.get(node));
-                
-                indegree[nbr]--;
 
+                indegree[nbr]--;
                 if(indegree[nbr]==0){
                     q.offer(nbr);
                 }
-                }
             }
-        
-
-        List<List<Integer >> res = new ArrayList<>();
-
-        for(int i=0;i<n;i++){
-            List<Integer>list = new ArrayList<>(ancestors.get(i));
-            Collections.sort(list);
-            res.add(list);
         }
-        return res;
+
+        List<List<Integer>> ans = new ArrayList<>();
+
+        for(int i =0;i<n;i++){
+            List<Integer> list = new ArrayList<>(ancestors.get(i));
+            Collections.sort(list);
+            ans.add(list);
+        }
+
+        return ans;
     }
 }
