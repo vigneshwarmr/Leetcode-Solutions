@@ -1,11 +1,17 @@
 class Solution {
     public int minimizedStringLength(String s) {
         
-        Set<Character> uniqueChars = new HashSet<>();
+        boolean[]seen = new boolean[26];
+        int count=0;
 
-        for(char c:s.toCharArray()){
-            uniqueChars.add(c);
+        for(int i=0;i<s.length();i++){
+            int index = s.charAt(i)-'a';
+
+            if(!seen[index]){
+                seen[index]=true;
+                count++;
+            }
         }
-        return uniqueChars.size();
+        return count;
     }
 }
