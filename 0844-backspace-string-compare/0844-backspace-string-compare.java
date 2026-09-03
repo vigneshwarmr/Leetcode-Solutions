@@ -1,30 +1,19 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
+        
+        return build(s).equals(build(t));
+    }
 
+    private String build(String s){
         StringBuilder sb = new StringBuilder();
-        StringBuilder tb = new StringBuilder();
 
-        for(char ch: s.toCharArray()){
+        for(char ch : s.toCharArray()){
             if(ch=='#'){
                 if(sb.length()>0){
                     sb.deleteCharAt(sb.length()-1);
                 }
-            }else{
-                sb.append(ch);
-            }
+            }else sb.append(ch);
         }
-
-        for(char ch:t.toCharArray()){
-            if(ch=='#'){
-                if(tb.length()>0){
-                    tb.deleteCharAt(tb.length()-1);
-                }
-            }else{
-                tb.append(ch);
-            }
-        }
-
-        if(sb.toString().equals(tb.toString()))return true;
-        else return false;
+        return sb.toString();
     }
 }
