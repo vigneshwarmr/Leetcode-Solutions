@@ -111,6 +111,7 @@ java Solution
 | [0474-ones-and-zeroes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0682-baseball-game](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -296,6 +297,7 @@ java Solution
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -336,6 +338,7 @@ java Solution
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
