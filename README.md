@@ -67,6 +67,7 @@ java Solution
 | [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
+| [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Breadth-First Search
@@ -267,6 +268,7 @@ java Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
@@ -290,6 +292,7 @@ java Solution
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -327,5 +330,6 @@ java Solution
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
