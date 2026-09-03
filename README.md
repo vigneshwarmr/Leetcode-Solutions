@@ -69,6 +69,7 @@ java Solution
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0796-rotate-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Breadth-First Search
@@ -294,6 +295,7 @@ java Solution
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
