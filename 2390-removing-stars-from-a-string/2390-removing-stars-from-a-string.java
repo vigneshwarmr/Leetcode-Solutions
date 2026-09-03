@@ -6,7 +6,7 @@ class Solution {
         for(char ch:s.toCharArray()){
             if(ch=='*'){
                 sb.deleteCharAt(sb.length()-1);
-            }else{
+            }else {
                 sb.append(ch);
             }
         }
