@@ -3,7 +3,7 @@ class Solution {
         
         StringBuilder sb = new StringBuilder();
 
-        for(char c :s.toCharArray()){
+        for(char c:s.toCharArray()){
             int len = sb.length();
 
             if(len>0 && sb.charAt(len-1)==c){
@@ -11,7 +11,7 @@ class Solution {
             }else{
                 sb.append(c);
             }
-    }
-    return sb.toString();
+        }
+        return sb.toString();
     }
 }
