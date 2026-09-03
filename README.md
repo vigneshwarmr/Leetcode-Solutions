@@ -68,6 +68,7 @@ java Solution
 | [0474-ones-and-zeroes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ java Solution
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -322,4 +324,8 @@ java Solution
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
