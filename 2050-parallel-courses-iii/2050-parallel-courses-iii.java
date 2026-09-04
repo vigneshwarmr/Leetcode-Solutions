@@ -1,38 +1,36 @@
 class Solution {
     public int minimumTime(int n, int[][] relations, int[] time) {
         
-
         List<List<Integer>> adj = new ArrayList<>();
 
-        for(int i =0 ;i<n;i++){
+        for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
 
-        int[]indegree= new int[n];
+        int[]indegree = new int[n];
 
-        for(int[]edge: relations){
+        for(int []edge:relations){
             int u = edge[0]-1;
             int v= edge[1]-1;
             adj.get(u).add(v);
             indegree[v]++;
         }
 
-        Queue<Integer > q = new LinkedList<>();
+        Queue<Integer> q = new LinkedList<>();
         int[]maxTime = new int[n];
 
-        for(int i=0;i<n;i++){
+        for(int i =0;i<n;i++){
             if(indegree[i]==0){
                 q.offer(i);
-                maxTime[i]=time[i];
+                maxTime[i]= time[i];
             }
         }
-
         int ans =0;
 
         while(!q.isEmpty()){
             int node = q.poll();
             ans = Math.max(ans,maxTime[node]);
-
+            
             for(int nbr:adj.get(node)){
                 maxTime[nbr]= Math.max(maxTime[nbr],maxTime[node]+time[nbr]);
 
