@@ -65,6 +65,7 @@ java Solution
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
@@ -199,6 +200,7 @@ java Solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0062-unique-paths) |
@@ -276,6 +278,7 @@ java Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
@@ -349,4 +352,8 @@ java Solution
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0796-rotate-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
