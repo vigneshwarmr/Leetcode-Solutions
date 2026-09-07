@@ -107,6 +107,7 @@ java Solution
 | [0064-minimum-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0189-rotate-array](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -193,6 +194,7 @@ java Solution
 | ------- |
 | [0062-unique-paths](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -279,6 +281,7 @@ java Solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
