@@ -1,16 +1,15 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        
-        int []frequency = new int[10];
-        int count=0;
+        int[] frequency= new int[10];
+        int count =0;
 
-        for(int digit:digits){
-            frequency[digit]++;
+        for(int d:digits){
+            frequency[d]++;
         }
 
-        for(int h=1;h<=9;h++){
-            if(frequency[h]==0)continue;
-            frequency[h]--;
+        for(int i= 1;i<=9;i++){
+            if(frequency[i]==0)continue;
+            frequency[i]--;
 
             for(int t=0;t<=9;t++){
                 if(frequency[t]==0)continue;
@@ -23,7 +22,7 @@ class Solution {
                 frequency[t]++;
             }
 
-            frequency[h]++;
+            frequency[i]++;
         }
 
         return count;
