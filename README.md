@@ -62,6 +62,7 @@ java Solution
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2716-minimize-string-length](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -141,6 +142,7 @@ java Solution
 | [2742-painting-the-walls](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2742-painting-the-walls) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -242,6 +244,7 @@ java Solution
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -360,4 +363,8 @@ java Solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
