@@ -114,6 +114,7 @@ java Solution
 | [0322-coin-change](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
@@ -199,6 +200,7 @@ java Solution
 | [0189-rotate-array](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3870-count-commas-in-range](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
