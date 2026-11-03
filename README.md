@@ -145,6 +145,7 @@ java Solution
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -205,6 +206,7 @@ java Solution
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
