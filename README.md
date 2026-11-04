@@ -63,6 +63,7 @@ java Solution
 | [2716-minimize-string-length](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@ java Solution
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
@@ -206,6 +208,7 @@ java Solution
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
@@ -246,6 +249,7 @@ java Solution
 | [2742-painting-the-walls](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2742-painting-the-walls) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
 |  |
 | ------- |
@@ -338,6 +342,7 @@ java Solution
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Shortest Path
 |  |
 | ------- |
@@ -374,4 +379,8 @@ java Solution
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
