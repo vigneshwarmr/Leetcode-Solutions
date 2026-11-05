@@ -136,6 +136,7 @@ java Solution
 | [1289-minimum-falling-path-sum-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1575-count-all-possible-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1575-count-all-possible-routes) |
 | [1598-crawler-log-folder](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [2050-parallel-courses-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2050-parallel-courses-iii) |
@@ -297,15 +298,18 @@ java Solution
 | [0005-longest-palindromic-substring](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Counting
 |  |
