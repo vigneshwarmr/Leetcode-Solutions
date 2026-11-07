@@ -140,6 +140,7 @@ java Solution
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1575-count-all-possible-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1575-count-all-possible-routes) |
 | [1598-crawler-log-folder](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
+| [1882-process-tasks-using-servers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2050-parallel-courses-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2050-parallel-courses-iii) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -348,6 +349,7 @@ java Solution
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Shortest Path
