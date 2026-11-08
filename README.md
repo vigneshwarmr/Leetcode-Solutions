@@ -94,6 +94,7 @@ java Solution
 | [0802-find-eventual-safe-states](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0909-snakes-and-ladders](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [1267-count-servers-that-communicate](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1462-course-schedule-iv](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1462-course-schedule-iv) |
@@ -133,6 +134,7 @@ java Solution
 | [0983-minimum-cost-for-tickets](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1267-count-servers-that-communicate](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -160,6 +162,7 @@ java Solution
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1267-count-servers-that-communicate](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -175,6 +178,7 @@ java Solution
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [1267-count-servers-that-communicate](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1462-course-schedule-iv](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -185,6 +189,7 @@ java Solution
 | [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1267-count-servers-that-communicate](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -318,6 +323,7 @@ java Solution
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
