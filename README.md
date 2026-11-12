@@ -150,6 +150,7 @@ java Solution
 | [2304-minimum-path-cost-in-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2742-painting-the-walls](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2742-painting-the-walls) |
 | [2747-count-zero-request-servers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
