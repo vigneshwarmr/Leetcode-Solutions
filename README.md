@@ -81,6 +81,7 @@ java Solution
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -265,6 +266,7 @@ java Solution
 | [2050-parallel-courses-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2050-parallel-courses-iii) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2742-painting-the-walls](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2742-painting-the-walls) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -317,6 +319,7 @@ java Solution
 | [0189-rotate-array](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
