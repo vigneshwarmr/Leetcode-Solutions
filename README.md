@@ -88,6 +88,7 @@ java Solution
 | [0210-course-schedule-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0547-number-of-provinces](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
@@ -178,6 +179,7 @@ java Solution
 | [0207-course-schedule](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
+| [0547-number-of-provinces](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -190,6 +192,7 @@ java Solution
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -200,6 +203,7 @@ java Solution
 | ------- |
 | [0207-course-schedule](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
