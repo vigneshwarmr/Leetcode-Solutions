@@ -39,14 +39,15 @@ class DSU{
 }
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        DSU dsu = new DSU( n);
+       
+       DSU dsu = new DSU(n);
 
-        for(int []edge:edges){
+       for(int []edge:edges){
             int u = edge[0];
             int v = edge[1];
 
             dsu.union(u,v);
-        }
-        return dsu.find(source)== dsu.find(destination);
+       }
+       return dsu.find(source)==dsu.find(destination);
     }
 }
