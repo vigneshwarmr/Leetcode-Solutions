@@ -1,65 +1,64 @@
 class DSU{
-    int[]parent ;
-    int[]rank;
+    int[]parent;
+    int[]size;
 
-    public DSU(int n){
-        rank = new int[n];
+    public DSU (int n){
         parent = new int[n];
+        size = new int[n];
 
         for(int i=0;i<n;i++){
             parent[i]=i;
-            rank[i]=1;
+            size[i]=1;
         }
     }
 
-    public int find(int node){
-        if(parent[node]!=node){
-            parent[node]=find(parent[node]);
+    public int find(int n){
+        if(parent[n]!=n){
+            parent[n]= find(parent[n]);
         }
 
-        return parent[node];
+        return parent[n];
     }
 
-    public void union(int x,int y){
+    public void union(int x ,int y){
         int nx = find(x);
-        int ny = find(y);
+        int ny= find(y);
 
-        if(nx==ny)return ;
+        if(nx==ny)return;
 
-        if(rank[nx]<rank[ny]){
+        if(size[nx]<size[ny]){
             parent[nx]=ny;
-        }else if(rank[ny]<rank[nx]){
+            size[nx]+=size[ny];
+        }else if(size[nx]>size[ny]){
             parent[ny]=nx;
+            size[ny]+=size[nx];
         }else{
             parent[nx]=ny;
-            rank[nx]++;
+            size[nx]++;
         }
-    }
+    } 
 }
+
 class Solution {
     public int findCircleNum(int[][] isConnected) {
-
+        
         int n = isConnected.length;
         DSU dsu = new DSU(n);
         int count=n;
 
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
-
                 if(isConnected[i][j]==1){
-                    int ui = dsu.find(i);
-                    int uj = dsu.find(j);
+                    int nx = dsu.find(i);
+                    int ny= dsu.find(j);
 
-                    if(ui!=uj){
+                    if(nx!=ny){
                         dsu.union(i,j);
                         count--;
                     }
-
                 }
             }
         }
         return count;
-
-
     }
 }
