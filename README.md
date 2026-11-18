@@ -82,6 +82,7 @@ java Solution
 | [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Breadth-First Search
 |  |
 | ------- |
