@@ -1,35 +1,59 @@
+class DSU{
+    int[]parent;
+    int[]size;
+
+    public DSU (int n){
+        parent= new int[n+1];
+        size = new int[n+1];
+
+        for(int i=0;i<=n;i++){
+            parent[i]=i;
+            size[i]=1;
+        }
+    }
+
+    public int find(int node){
+
+        if(parent[node]!=node){
+            parent[node]=find(parent[node]);
+        }
+
+        return parent[node];
+    }
+
+    public void union(int x,int y){
+
+        int nx = find(x);
+        int ny= find(y);
+
+        if(nx==ny)return;
+
+        if(size[nx]<size[ny]){
+            parent[nx]=ny;
+            size[ny]+=size[nx];
+        }else if(size[ny]<size[nx]){
+            parent[ny]=nx;
+            size[nx]+=size[ny];
+        }else{
+            parent[nx]=ny;
+            size[nx]++;
+        }
+    }
+}
+
 class Solution {
     public int[] findRedundantConnection(int[][] edges) {
         int n = edges.length;
-        List<List<Integer>> adj = new ArrayList<>();
+        DSU dsu = new DSU(n);
 
-        for(int i=0;i<=n;i++){
-            adj.add(new ArrayList<>());
-        }
+        for(int []edge:edges){
+            int root1=dsu.find(edge[0]);
+            int root2 = dsu.find(edge[1]);
 
-        for(int[]e :edges){
-            int u = e[0];
-            int v= e[1];
-            boolean []vis = new boolean[n+1];
+            if(root1==root2)return edge;
 
-            if(dfs(u,v,adj,vis))return e;
-
-            adj.get(u).add(v);
-            adj.get(v).add(u);
+            dsu.union(edge[0],edge[1]);
         }
         return new int[0];
-    }
-
-    private boolean dfs(int src,int dest,List<List<Integer>>adj,boolean[]vis){
-        if(src==dest)return true;
-
-        vis[src]=true;
-
-        for(Integer x:adj.get(src)){
-            if(!vis[x]){
-                if(dfs(x,dest,adj,vis))return true;
-            }
-        }
-        return false;
     }
 }
