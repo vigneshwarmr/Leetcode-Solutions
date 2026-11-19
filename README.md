@@ -153,6 +153,7 @@ java Solution
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2742-painting-the-walls](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2742-painting-the-walls) |
 | [2747-count-zero-request-servers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -336,6 +337,7 @@ java Solution
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Counting
@@ -350,6 +352,7 @@ java Solution
 | [0055-jump-game](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
