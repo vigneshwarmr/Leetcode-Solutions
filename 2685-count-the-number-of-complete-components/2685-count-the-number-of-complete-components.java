@@ -1,16 +1,14 @@
 class DSU{
     int[]parent;
     int[]rank;
-    int components;
 
     public DSU(int n){
-        parent= new int[n];
+        parent = new int[n];
         rank = new int[n];
-        components=n;
 
         for(int i=0;i<n;i++){
-            rank[i]=1;
             parent[i]=i;
+            rank[i]=1;
         }
     }
 
@@ -18,25 +16,23 @@ class DSU{
         if(parent[node]!=node){
             parent[node]=find(parent[node]);
         }
-
         return parent[node];
     }
 
-    public void union(int x,int y){
-        int nx= find(x);
-        int ny= find(y);
+    public void union (int x,int y){
+        int root1= find(x);
+        int root2= find(y);
 
-        if(nx== ny)return;
+        if(root1==root2)return;
 
-        if(rank[nx]<rank[ny]){
-            parent[nx]=ny;
-        }else if(rank[ny]<rank[nx]){
-            parent[ny]=nx;
+        if(rank[root1]<rank[root2]){
+            parent[root1]=root2;
+        }else if(rank[root2]<rank[root1]){
+            parent[root2]=root1;
         }else{
-            parent[nx]=ny;
-            rank[ny]++;
+            parent[root1]=root2;
+            rank[root2]++;
         }
-        components--;
     }
 }
 
@@ -45,31 +41,32 @@ class Solution {
         
         DSU dsu = new DSU(n);
 
-        for(int[]edge:edges){
+        for(int []edge:edges){
             dsu.union(edge[0],edge[1]);
         }
 
         int[]vertexCount = new int[n];
         for(int i=0;i<n;i++){
-            int root = dsu.find(i);
+            int root=dsu.find(i);
             vertexCount[root]++;
         }
 
         int[]edgeCount = new int[n];
-        for(int []edge:edges){
-            int root = dsu.find(edge[0]);
-            edgeCount[root]++;
+
+        for(int[]edge:edges){
+            int edgeh= dsu.find(edge[0]);
+            edgeCount[edgeh]++;
         }
 
-        int Completecount =0;
+        int finalc=0;
         for(int i=0;i<n;i++){
             if(dsu.find(i)==i){
                 long m = vertexCount[i];
-                long expectedEdges = m*(m-1)/2;
-                if(edgeCount[i]==expectedEdges)Completecount++;
+                long expectedCount = m*(m-1)/2;
+
+                if(edgeCount[i]==expectedCount)finalc++;
             }
         }
-
-    return Completecount;
+        return finalc;
     }
 }
