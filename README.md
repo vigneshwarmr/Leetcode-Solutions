@@ -79,6 +79,7 @@ java Solution
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
