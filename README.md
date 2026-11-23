@@ -148,6 +148,7 @@ java Solution
 | [1289-minimum-falling-path-sum-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1575-count-all-possible-routes](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1575-count-all-possible-routes) |
 | [1598-crawler-log-folder](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
@@ -241,6 +242,7 @@ java Solution
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -441,4 +443,16 @@ java Solution
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
