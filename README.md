@@ -171,6 +171,7 @@ java Solution
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -293,6 +294,7 @@ java Solution
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
@@ -372,6 +374,7 @@ java Solution
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
