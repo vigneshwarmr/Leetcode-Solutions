@@ -172,6 +172,7 @@ java Solution
 | [3693-climbing-stairs-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -360,6 +361,7 @@ java Solution
 | [2747-count-zero-request-servers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting
 |  |
 | ------- |
@@ -375,6 +377,7 @@ java Solution
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
@@ -402,6 +405,7 @@ java Solution
 | [1882-process-tasks-using-servers](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vigneshwarmr/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Shortest Path
 |  |
 | ------- |
